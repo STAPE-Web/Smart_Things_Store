@@ -70,7 +70,7 @@ const Card: FC = ({ navigation }: any) => {
                     <Text style={styles.textButton}>Purchase Now</Text>
                 </View>
             </View>
-        </SafeAreaView >
+        </SafeAreaView>
     )
 }
 
