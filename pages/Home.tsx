@@ -63,7 +63,7 @@ const Home: FC = ({ navigation }: any) => {
             </View>
             <Nav route={route} navigation={navigation} />
             {modal ? <Modal modal={modal} setModal={setModal} /> : null}
-        </SafeAreaView >
+        </SafeAreaView>
     )
 }
 
