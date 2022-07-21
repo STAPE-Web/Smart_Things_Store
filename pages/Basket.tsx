@@ -31,7 +31,7 @@ const Basket: FC = ({ navigation }: any) => {
                 </View>}
             <View style={styles.money}><CashIcon style={styles.icon} /></View>
             <Nav route={route} navigation={navigation} />
-        </SafeAreaView >
+        </SafeAreaView>
     )
 }
 
